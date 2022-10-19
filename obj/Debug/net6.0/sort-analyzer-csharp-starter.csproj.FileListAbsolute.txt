@@ -1,0 +1,15 @@
+F:\CS30\sort-analyzer-csharp-starter\bin\Debug\net6.0\sort-analyzer-csharp-starter.exe
+F:\CS30\sort-analyzer-csharp-starter\bin\Debug\net6.0\sort-analyzer-csharp-starter.deps.json
+F:\CS30\sort-analyzer-csharp-starter\bin\Debug\net6.0\sort-analyzer-csharp-starter.runtimeconfig.json
+F:\CS30\sort-analyzer-csharp-starter\bin\Debug\net6.0\sort-analyzer-csharp-starter.dll
+F:\CS30\sort-analyzer-csharp-starter\bin\Debug\net6.0\sort-analyzer-csharp-starter.pdb
+F:\CS30\sort-analyzer-csharp-starter\obj\Debug\net6.0\sort-analyzer-csharp-starter.csproj.AssemblyReference.cache
+F:\CS30\sort-analyzer-csharp-starter\obj\Debug\net6.0\sort-analyzer-csharp-starter.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\sort-analyzer-csharp-starter\obj\Debug\net6.0\sort-analyzer-csharp-starter.AssemblyInfoInputs.cache
+F:\CS30\sort-analyzer-csharp-starter\obj\Debug\net6.0\sort-analyzer-csharp-starter.AssemblyInfo.cs
+F:\CS30\sort-analyzer-csharp-starter\obj\Debug\net6.0\sort-analyzer-csharp-starter.csproj.CoreCompileInputs.cache
+F:\CS30\sort-analyzer-csharp-starter\obj\Debug\net6.0\sort-analyzer-csharp-starter.dll
+F:\CS30\sort-analyzer-csharp-starter\obj\Debug\net6.0\refint\sort-analyzer-csharp-starter.dll
+F:\CS30\sort-analyzer-csharp-starter\obj\Debug\net6.0\sort-analyzer-csharp-starter.pdb
+F:\CS30\sort-analyzer-csharp-starter\obj\Debug\net6.0\sort-analyzer-csharp-starter.genruntimeconfig.cache
+F:\CS30\sort-analyzer-csharp-starter\obj\Debug\net6.0\ref\sort-analyzer-csharp-starter.dll
