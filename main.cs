@@ -13,7 +13,6 @@ class MainClass
         int[] reversedData = loadDataArray("data-files/reversed-values.txt");
         int[] nearlySortedData = loadDataArray("data-files/nearly-sorted-values.txt");
         int[] fewUniqueData = loadDataArray("data-files/few-unique-values.txt");
-        Console.Clear();
 
         // VERIFY LOADED DATA BY PRINTING 50 ELEMENTS
         // printIntArray(randomData, 0, 50);
@@ -27,6 +26,35 @@ class MainClass
         // bubbleSort(randomData);
         // timer.Stop();
         // Console.WriteLine($"Bubble Sort Random Data: {timer.Elapsed}");
+
+        Console.WriteLine("Random Data");
+        var timer = new Stopwatch();
+        timer.Start();
+        Sort.selection(randomData);
+        timer.Stop();
+        Console.WriteLine($"selection Sort Random Data: {timer.Elapsed}\n");
+
+        Console.WriteLine("Reverse Data");
+        timer = new Stopwatch();
+        timer.Start();
+        Sort.selection(reversedData);
+        timer.Stop();
+        Console.WriteLine($"selection Sort Random Data: {timer.Elapsed}\n");
+
+        Console.WriteLine("Nearly Sorted Data");
+        timer = new Stopwatch();
+        timer.Start();
+        Sort.selection(nearlySortedData);
+        timer.Stop();
+        Console.WriteLine($"selection Sort Random Data: {timer.Elapsed}\n");
+
+        Console.WriteLine("Few Unique Data");
+        timer = new Stopwatch();
+        timer.Start();
+        Sort.selection(fewUniqueData);
+        timer.Stop();
+        Console.WriteLine($"selection Sort Random Data: {timer.Elapsed}\n");
+
     }
 
     // Function to create an array of integers from provided data file
